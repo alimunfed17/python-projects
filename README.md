@@ -8,3 +8,6 @@ A simple command-line number guessing game where the user tries to guess a rando
 
 ## 3. rock_paper_scissors.py
 A simple command-line Rock/Paper/Scissors game where the user plays against the computer. The program randomly selects the computer's choice, determines the winner of each round, and keeps track of the number of wins for both the user and the computer.
+
+## 4. choose_your_own_adventure.py
+A simple command-line adventure game where the user makes a choice that shape the story. Each decision leads to a different outcome, with some choices leading to victory and others resulting in loss.
