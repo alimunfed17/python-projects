@@ -11,3 +11,6 @@ A simple command-line Rock/Paper/Scissors game where the user plays against the 
 
 ## 4. choose_your_own_adventure.py
 A simple command-line adventure game where the user makes a choice that shape the story. Each decision leads to a different outcome, with some choices leading to victory and others resulting in loss.
+
+## 5. password_manager.py
+A simple command-line password manager that can add encrypted passwords with usernames, decrypt the passwords, and display the passwords with their corresponding usernames.
