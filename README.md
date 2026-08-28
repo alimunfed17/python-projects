@@ -14,3 +14,6 @@ A simple command-line adventure game where the user makes a choice that shape th
 
 ## 5. password_manager.py
 A simple command-line password manager that can add encrypted passwords with usernames, decrypt the passwords, and display the passwords with their corresponding usernames.
+
+## 6. pig.py
+A simple command-line Pig dice game where 2–4 players take turns rolling a die to accumulate points. Players can choose to roll again or save their current score, while rolling a 1 ends their turn and forfeits their points.
